@@ -19,6 +19,7 @@ BuildRequires: perl(HTTP::Cookies)
 BuildRequires: perl(HTTP::Response)
 BuildRequires: perl(LWP::UserAgent)
 BuildRequires: perl(URI)
+BuildRequires: perl-devel
 BuildArch: noarch
 
 %description
