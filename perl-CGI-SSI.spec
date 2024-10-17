@@ -8,7 +8,7 @@ Release:    1
 Summary:    Use SSI from CGI scripts
 License:    GPL+ or Artistic
 Group:      Development/Perl
-Url:        http://search.cpan.org/dist/%{upstream_name}
+Url:        https://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/CGI/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires: perl(Date::Format)
